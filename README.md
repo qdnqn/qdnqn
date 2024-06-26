@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qdnqn
 - 👀 I’m interested in software development, go, linux, kubernetes, cloud.
-- 🌱 I’m currently learning go lang.
+- 🌱 I’m currently learning go lang while developing simple container manager.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me: https://www.linkedin.com/in/qdnqn/
 
