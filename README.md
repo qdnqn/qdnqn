@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @qdnqn
-- 👀 I’m interested in software development, go, linux, kubernetes, cloud.
-- 🌱 I’m currently learning go lang while developing https://github.com/qdnqn/smr
-- 💞️ I’m looking to collaborate on open source projects.
+- 👀 I’m interested in Go, Linux, Kubernetes, and Cloud.
+- 🌱 I’m currently developing in free time: https://github.com/simplecontainer/smr
+- 💞️ I’m looking for freelance projects and full-time opportunities.
 - 📫 How to reach me: https://www.linkedin.com/in/qdnqn/
 
 <!---
