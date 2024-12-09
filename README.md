@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @qdnqn
 - 👀 I’m interested in Go, Linux, Kubernetes, and Cloud (AWS and Azure).
 - 🌱 I’m currently developing in my free time: https://simplecontainer.qdnqn.com
-- 💞️ I’m looking for freelance projects and full-time opportunities (adnn.selimovic@gmail.com).
+- 💞️ I’m looking for freelance projects and full-time opportunities (adnan.selimovic@qdnqn.com).
 - ✍️ Blogging at the https://qdnqn.com/
 - 📫 How to reach me: https://www.linkedin.com/in/qdnqn/
 
