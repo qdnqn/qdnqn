@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @qdnqn
 - 👀 I’m interested in Go, Linux, Containers, Kubernetes, and Cloud.
-- 🌱 I’m currently developing in my free time: https://simplecontainer.qdnqn.com
+- 🌱 I’m currently working on the: https://simplecontainer.io
 - 💞️ How to reach me (adnan.selimovic@qdnqn.com).
-- ✍️ Writting at the https://qdnqn.com/ and https://simplecontainer.qdnqn.com/
+- ✍️ Writting at the https://qdnqn.com/ and https://simplecontainer.io/
 
 <!---
 qdnqn/qdnqn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
